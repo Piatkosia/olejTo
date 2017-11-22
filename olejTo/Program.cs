@@ -7,7 +7,7 @@ namespace olejTo
     {
         static void Main(string[] args)
         {
-            var Asm = Assembly.Load("SecureClass");
+            var Asm = Assembly.Load("FindMeIfYouCan");
             var types = Asm.GetTypes();
             var SingleType = types[0];
             var FunnyObject = Convert.ChangeType(Activator.CreateInstance(SingleType), SingleType);

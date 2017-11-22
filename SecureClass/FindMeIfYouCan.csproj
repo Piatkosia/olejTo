@@ -7,8 +7,8 @@
     <ProjectGuid>{3F86C8EB-B4FE-40A8-BEA0-F9A057679594}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SecureClass</RootNamespace>
-    <AssemblyName>SecureClass</AssemblyName>
+    <RootNamespace>FindMeIfYouCan</RootNamespace>
+    <AssemblyName>FindMeIfYouCan</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
